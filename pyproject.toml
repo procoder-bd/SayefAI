@@ -1,0 +1,10 @@
+[project]
+name = "SayefAI"
+
+version = "0.1.0"
+
+description = "Personal AI Desktop Assistant"
+
+requires-python = ">=3.12"
+
+dependencies = []
